@@ -1,0 +1,38 @@
+/* ID selector */
+#main-title {
+    color: darkblue;
+    font-family: 'Georgia', serif;
+    text-align: center;
+  }
+  
+  /* Class selector */
+  .intro {
+    font-size: 18px;
+    color: #444;
+    margin: 20px;
+    padding: 10px;
+  }
+  
+  /* Element selector */
+  body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  /* Style the image */
+  .styled-image {
+    display: block;
+    margin: 20px auto;
+    border: 4px solid #555;
+    border-radius: 10px;
+  }
+  
+  /* Box with padding, margin, and border */
+  .content-box {
+    background-color: #fff;
+    border: 2px dashed #888;
+    margin: 30px;
+    padding: 20px;
+  }
+  
